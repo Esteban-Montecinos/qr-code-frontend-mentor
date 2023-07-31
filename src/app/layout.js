@@ -1,7 +1,7 @@
 import './globals.css'
 import { Outfit } from 'next/font/google'
 
-const outfit = Outfit({weight:['400', '700'], subsets: ['latin'] })
+const outfit = Outfit({weight:['400', '700', '800'], subsets: ['latin'] })
 
 export const metadata = {
   title: 'Qr code Frontend Mentor | Esteban Montecinos',
